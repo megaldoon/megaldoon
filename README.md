@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @megaldoon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+    
+    
+    
+    
+    
+        # BEM INDO AO CABELEREIRO VIKINGS
+         
+         
+           SOBRE A  Barbearia VIKINGS
 
-<!---
-megaldoon/megaldoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Localizada no coração da cidade São Paulo traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2022, a Barbearia VIKINGS já é destaque na cidade e conquista novos clientes a cada dia.
+
+Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
+
+Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+cortes inovadores que vao deixar você que esta ai vendo essa mensagem de queio caido um corte melhor que outro 
